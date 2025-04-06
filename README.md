@@ -1,13 +1,13 @@
 <!-- Jass-2's Professional GitHub README -->
 
 <!-- Banner image -->
-<img src="assets/main-logo.svg" alt="Banner" width="100%" />
+<img src="https://your-image-host.com/banner.jpg" alt="Banner" width="100%" />
 
 <!-- Profile header -->
 <table>
   <tr>
     <td width="120">
-      <img src="https://your-image-host.com/logo.png" alt="Logo" width="100" />
+      <img src="assets/main-logo.svg" alt="Logo" width="100" />
     </td>
     <td>
       <h1>Jashan Kumar</h1>
