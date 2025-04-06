@@ -2,7 +2,7 @@
 <img src="assets/banner.png" alt="Banner" width="100%" />
 
 <!-- Introduction -->
-<h1>Hey, I'm Jashan Kumar</h1>
+<h1>Jashan Kumar</h1>
 
 <!-- Typing Effect -->
 <p>
