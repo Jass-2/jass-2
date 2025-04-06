@@ -1,7 +1,7 @@
 <h1 align="left">
   <a href="https://jkumar.dev" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
     <img src="assets/main-logo.svg" alt="Logo" height="42" style="vertical-align: middle; margin-right: 10px;" />
-    <img src="assets/name.svg" alt="Jashan Kumar" height="40" style="vertical-align: middle;" />
+    <img src="assets/name.svg" alt="Jashan Kumar" height="35" style="vertical-align: middle;" />
   </a>
 </h1>
 
