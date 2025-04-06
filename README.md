@@ -1,7 +1,10 @@
-<p align="left">
-  <img src="assets/main-logo.svg" alt="Logo" width="40" style="vertical-align:middle; margin-right:8px;" />
-  <strong style="font-size: 32px;">Jashan Kumar</strong>
-</p>
+<h1>
+  <a href="https://jkumar.dev" target="_blank" rel="noopener noreferrer">
+    <img src="assets/main-logo.svg" alt="Logo" width="30" style="vertical-align:middle; margin-right: 8px;" />
+    <img src="assets/name.svg" alt="Jashan Kumar" height="40" style="vertical-align:middle;" />
+  </a>
+</h1>
+
 
 
 <!-- Typewriter Effect -->
