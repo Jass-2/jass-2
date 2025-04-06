@@ -1,8 +1,7 @@
 <!-- GitHub README Profile for Jass-2 -->
-<h1 align="center">Hey there 👋, I'm Jashan Kumar</h1>
-<h3 align="center">Front-End Developer &  Creative Designer from Canada</h3>
+<h1 align="left">Hey there, I'm Jashan Kumar</h1>
 
-<p align="center">
+<p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Creative+Designer+%7C+Front-End+Dev;Building+Websites%2C+UI%2C+3D%2C+Motion+%26+Magic;Let's+Build+Something+Cool+Together" alt="Typing SVG" />
 </p>
 
