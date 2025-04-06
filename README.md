@@ -1,10 +1,10 @@
 <!-- Banner -->
 <img src="assets/banner.png" alt="Banner" width="100%" />
 
-<!-- Hero Section -->
+<!-- Introduction -->
 <h1>Hey, I'm Jashan Kumar</h1>
 
-<!-- Typewriter effect -->
+<!-- Typing Effect -->
 <p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Creative+Developer+%7C+Front-End+Engineer;Crafting+3D%2C+Motion+%26+UI+Experiences;Bringing+Design+and+Code+Together" alt="Typing SVG" />
 </p>
@@ -14,11 +14,11 @@
 ### 👨‍💻 About Me
 
 I'm a passionate front-end developer and creative technologist based in Canada.  
-Currently a **Multimedia Design & Development** student @Fanshawe College, I specialize in building sleek, responsive websites, 3D interactions, and motion-driven UIs.
+Currently a **Multimedia Design & Development** student at Fanshawe College, I specialize in building sleek, responsive websites, 3D interactions, and motion-driven UIs.
 
 - 🚀 Obsessed with clean UI, animations, and performance  
 - ✨ Bridging code + creativity through 3D, design systems & micro-interactions  
-- 🧠 Currently learning: React, Angular, advanced JavaScript  
+- 🧠 Currently learning: Vue.js, Lumen, advanced JavaScript  
 - 💬 Ask me about: Web Design • CSS Tricks • 3D Pipelines • Motion Design
 
 ---
@@ -52,9 +52,9 @@ Currently a **Multimedia Design & Development** student @Fanshawe College, I spe
 
 **Frameworks & Libraries**
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lumen-E74430?style=flat-square&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white"/>
 </p>
 
 **Design & Tools**
@@ -68,14 +68,12 @@ Currently a **Multimedia Design & Development** student @Fanshawe College, I spe
 
 ---
 
-### 🧪 Featured Projects
+### 🎮 GitHub Contribution Snake
 
-```markdown
-🔹 [🎧 CECI Earbuds Promo Site](https://github.com/Jass-2/ceci-earbuds-site)  
-     ➤ Interactive 3D product page w/ animations.
+![Contribution Snake Animation](https://github.com/Jass-2/Jass-2/blob/output/github-contribution-grid-snake.svg)
 
-🔹 [🎬 Hidden Realms Title Sequence](https://github.com/Jass-2/title-sequence-recreation)  
-     ➤ Story-based motion intro made in AE + C4D.
+---
 
-🔹 [🪐 3D Galaxy Scroll Scene](https://github.com/Jass-2/starfield-threejs)  
-     ➤ Parallax galaxy with interactive ship movement.
+### 💬 Personal Motto
+
+> *“Design is not just what it looks like and feels like. Design is how it works.”* – Steve Jobs
