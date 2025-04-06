@@ -1,8 +1,11 @@
 <!-- Banner -->
 <img src="assets/banner.png" alt="Banner" width="100%" />
 
-<!-- Introduction -->
-<h1>Jashan Kumar</h1>
+<!-- Introduction with logo -->
+<div align="left" style="display: flex; align-items: center; gap: 16px;">
+  <img src="assets/main-logo.svg" alt="Logo" width="60" style="vertical-align: middle;" />
+  <h1 style="display: inline-block;">Jashan Kumar</h1>
+</div>
 
 <!-- Typing Effect -->
 <p>
@@ -16,10 +19,10 @@
 I'm a passionate front-end developer and creative technologist based in Canada.  
 Currently a **Multimedia Design & Development** student at Fanshawe College, I specialize in building sleek, responsive websites, 3D interactions, and motion-driven UIs.
 
-Obsessed with clean UI, animations, and performance  
-Bridging code + creativity through 3D, design systems & micro-interactions  
-Currently learning: Vue.js, Lumen, advanced JavaScript  
-Ask me about: Web Design • CSS Tricks • 3D Pipelines • Motion Design
+- 🚀 Obsessed with clean UI, animations, and performance  
+- ✨ Bridging code + creativity through 3D, design systems & micro-interactions  
+- 🧠 Currently learning: Vue.js, Lumen, advanced JavaScript  
+- 💬 Ask me about: Web Design • CSS Tricks • 3D Pipelines • Motion Design
 
 ---
 
@@ -68,10 +71,13 @@ Ask me about: Web Design • CSS Tricks • 3D Pipelines • Motion Design
 
 ---
 
-### 🎮 GitHub Contribution Snake
+### 🧠 Code Rain Animation (Matrix Style)
 
-![Contribution Snake](https://raw.githubusercontent.com/Jass-2/Jass-2/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rohitguptab/rohitguptab/main/code-rain.svg" alt="Code Rain Animation" />
+</p>
 
+> *(Inspired by the matrix, but personalized to show you live and breathe code)*
 
 ---
 
