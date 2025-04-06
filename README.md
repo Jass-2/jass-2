@@ -16,10 +16,10 @@
 I'm a passionate front-end developer and creative technologist based in Canada.  
 Currently a **Multimedia Design & Development** student at Fanshawe College, I specialize in building sleek, responsive websites, 3D interactions, and motion-driven UIs.
 
-- 🚀 Obsessed with clean UI, animations, and performance  
-- ✨ Bridging code + creativity through 3D, design systems & micro-interactions  
-- 🧠 Currently learning: Vue.js, Lumen, advanced JavaScript  
-- 💬 Ask me about: Web Design • CSS Tricks • 3D Pipelines • Motion Design
+Obsessed with clean UI, animations, and performance  
+Bridging code + creativity through 3D, design systems & micro-interactions  
+Currently learning: Vue.js, Lumen, advanced JavaScript  
+Ask me about: Web Design • CSS Tricks • 3D Pipelines • Motion Design
 
 ---
 
