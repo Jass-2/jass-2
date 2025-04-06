@@ -1,7 +1,7 @@
 <!-- Jass-2's Professional GitHub README -->
 
 <!-- Banner image -->
-<img src="https://your-image-host.com/banner.jpg" alt="Banner" width="100%" />
+<img src="assets/main-logo.svg" alt="Banner" width="100%" />
 
 <!-- Profile header -->
 <table>
