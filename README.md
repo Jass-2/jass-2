@@ -72,6 +72,7 @@ Currently a **Multimedia Design & Development** student at Fanshawe College, I s
 
 ![Contribution Snake Animation](https://github.com/Jass-2/Jass-2/blob/output/github-contribution-grid-snake.svg)
 
+
 ---
 
 ### 💬 Personal Motto
