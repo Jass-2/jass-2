@@ -1,8 +1,9 @@
 <!-- Logo + Name -->
 <p align="left">
   <img src="assets/main-logo.svg" alt="Logo" width="50" style="vertical-align: middle; margin-right: 12px;">
-  <span style="font-size: 2.2rem; font-weight: 700;">Jashan Kumar</span>
+  <h1 style="display:inline; vertical-align:middle;">Jashan Kumar</h1>
 </p>
+
 
 <!-- Typewriter Effect -->
 <p>
