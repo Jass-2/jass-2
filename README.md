@@ -68,7 +68,7 @@ Currently a **Multimedia Design & Development** student at Fanshawe College, I s
 
 ---
 
-### 🌟 Unique Coding Visual (3D Dev Cube)
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width="300" alt="3D Code Cube" />
