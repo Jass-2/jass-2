@@ -3,7 +3,7 @@
 <h3 align="center">Front-End Developer &  Creative Designer from Canada</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Creative+Designer+%7C+Front-End+Dev;Building+Websites%2C+UI%2C+3D%2C+Motion+%26+Magic;Let's+Build+Something+Cool+Together" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Creative+Designer+%7C+Front-End+Dev;Building+Websites%2C+UI%2C+3D%2C+Motion+%26+Magic;Let's+Build+Something+Cool+Together" alt="Typing SVG" />
 </p>
 
 ---
