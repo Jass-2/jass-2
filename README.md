@@ -1,7 +1,7 @@
-<!-- Profile Intro -->
+<!-- Logo + Name -->
 <p align="left">
-  <img src="assets/main-logo.svg" alt="Logo" width="50" style="vertical-align:middle; margin-right:10px;">
-  <span style="font-size: 3rem; font-weight: bold;">Jashan Kumar</span>
+  <img src="assets/main-logo.svg" alt="Logo" width="50" style="vertical-align: middle; margin-right: 12px;">
+  <span style="font-size: 2.2rem; font-weight: 700;">Jashan Kumar</span>
 </p>
 
 <!-- Typewriter Effect -->
@@ -11,7 +11,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### 🧑‍💻 About Me
 
 I'm a passionate front-end developer and creative technologist based in Canada.  
 Currently a **Multimedia Design & Development** student at Fanshawe College, I specialize in building sleek, responsive websites, 3D interactions, and motion-driven UIs.
@@ -26,16 +26,16 @@ Currently a **Multimedia Design & Development** student at Fanshawe College, I s
 ### 🌐 Connect with Me
 
 <a href="mailto:jashankumarofficial@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://linkedin.com/in/jashan-kumar-03b241259">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://instagram.com/jashankumar.2">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 <a href="https://your-portfolio.com">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 ---
@@ -71,7 +71,7 @@ Currently a **Multimedia Design & Development** student at Fanshawe College, I s
 ### 🌟 Unique Coding Visual (3D Dev Cube)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width="600" alt="3D Code Cube" />
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width="300" alt="3D Code Cube" />
 </p>
 
 > *(Your imagination lives in pixels. Here's a visual to prove it.)*
