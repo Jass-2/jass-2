@@ -1,89 +1,83 @@
-<!-- Profile README for Jass-2 -->
+<!-- Jass-2's Professional GitHub README -->
 
-<p align="center">
-  <img src="https://your-logo-url.com/logo.png" height="100" alt="logo" />
-</p>
+<!-- Banner image -->
+<img src="https://your-image-host.com/banner.jpg" alt="Banner" width="100%" />
 
-<h1 align="center">Hey there 👋, I'm <span style="color:#58A6FF">Jashan Kumar</span></h1>
-<h3 align="center">Creative Dev & Front-End Engineer | UI, 3D & Motion</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=58A6FF&center=true&vCenter=true&width=500&lines=Creative+Designer+%7C+Front-End+Dev;Building+Websites%2C+UI%2C+3D%2C+Motion+%26+Magic;Let's+Build+Something+Cool+Together" alt="Typing SVG" />
-</p>
-
----
-
-### 🧑‍🎨 About Me
-
-- 🧑‍💻 **Multimedia Design & Dev Student @ Fanshawe College**  
-- 🚀 Currently building interactive websites and UI animations  
-- 🎯 Passionate about **3D**, motion design, and user-centered web  
-- 🌱 Learning **React**, **Angular**, and advanced **JavaScript**  
-- 🧠 Ask me about **Web Design**, **3D Workflows**, or **Motion Graphics**  
-- 🖌 Fun fact: I blend code & design like a digital artist 🧠🎨  
+<!-- Profile header -->
+<table>
+  <tr>
+    <td width="120">
+      <img src="https://your-image-host.com/logo.png" alt="Logo" width="100" />
+    </td>
+    <td>
+      <h1>Jashan Kumar</h1>
+      <h3 style="color:#58A6FF;">Creative Dev & Front-End Engineer</h3>
+      <p><code>Building seamless digital experiences with code, design, and motion.</code></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🧰 Tech Stack & Tools
+### 👨‍💻 About Me
 
-**Languages**
-<p>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-</p>
+I'm a passionate front-end developer and creative technologist based in Canada.  
+Currently a **Multimedia Design & Development** student @Fanshawe College, I specialize in building sleek, responsive websites, 3D interactions, and motion-driven UIs.
 
-**Frameworks & Libraries**
-<p>
-  <img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap"/>
-</p>
-
-**Design & Dev Tools**
-<p>
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-After%20Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Cinema%204D-001E36?style=for-the-badge&logo=maxon&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</p>
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jass-2&show_icons=true&theme=tokyonight&count_private=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Jass-2&theme=tokyonight" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jass-2&layout=compact&theme=tokyonight" />
-</p>
+- 🚀 Obsessed with clean UI, animations, and performance  
+- ✨ Bridging code + creativity through 3D, design systems & micro-interactions  
+- 🧠 Currently learning: React, Angular, advanced JavaScript  
+- 💬 Ask me about: Web Design • CSS Tricks • 3D Pipelines • Motion Design
 
 ---
 
 ### 🌐 Connect with Me
 
-<p align="center">
+<p>
+  <a href="mailto:jashankumarofficial@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/jashan-kumar-03b241259"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:jashankumarofficial@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://instagram.com/jashankumar.2"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 ---
 
-### 💼 Featured Projects
+### 🧰 My Skill Stack
+
+**Languages**
+<p>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+</p>
+
+**Frameworks & Libraries**
+<p>
+  <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
+</p>
+
+**Tools & Design**
+<p>
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-After%20Effects-9999FF?style=flat-square&logo=adobe-after-effects&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Cinema%204D-001E36?style=flat-square&logo=maxon&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
+</p>
+
+---
+
+### 🧪 Latest Projects
 
 ```markdown
-🔹 [🎧 CECI Earbuds Site](https://github.com/Jass-2/ceci-earbuds-site)  
-  ⤷ Sleek promo site with 3D and custom animations.
+🔹 [🎧 CECI Earbuds Promo Site](https://github.com/Jass-2/ceci-earbuds-site)  
+     ➤ Interactive 3D product page w/ animations.
 
-🔹 [🎬 Title Sequence Animation](https://github.com/Jass-2/title-sequence-recreation)  
-  ⤷ Cinematic title made with AE & C4D.
+🔹 [🎬 Hidden Realms Title Sequence](https://github.com/Jass-2/title-sequence-recreation)  
+     ➤ Story-based motion intro made in AE + C4D.
 
-🔹 [🌌 Space Scene in Three.js](https://github.com/Jass-2/starfield-threejs)  
-  ⤷ Interactive 3D animation with parallax & light effects.
+🔹 [🪐 3D Galaxy Scroll Scene](https://github.com/Jass-2/starfield-threejs)  
+     ➤ Parallax galaxy with interactive ship movement.
