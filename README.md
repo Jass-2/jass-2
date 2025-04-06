@@ -1,15 +1,12 @@
-<!-- Banner -->
-<img src="assets/banner.png" alt="Banner" width="100%" />
+<!-- Profile Intro -->
+<p align="left">
+  <img src="assets/main-logo.svg" alt="Logo" width="50" style="vertical-align:middle; margin-right:10px;">
+  <span style="font-size: 2rem; font-weight: bold;">Jashan Kumar</span>
+</p>
 
-<!-- Introduction with logo -->
-<div align="left" style="display: flex; align-items: center; gap: 16px;">
-  <img src="assets/main-logo.svg" alt="Logo" width="60" style="vertical-align: middle;" />
-  <h1 style="display: inline-block;">Jashan Kumar</h1>
-</div>
-
-<!-- Typing Effect -->
+<!-- Typewriter Effect -->
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Creative+Developer+%7C+Front-End+Engineer;Crafting+3D%2C+Motion+%26+UI+Experiences;Bringing+Design+and+Code+Together" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Crafting+3D%2C+Motion+%26+UI+Experiences;Creative+Developer+%7C+Front-End+Engineer;Bringing+Design+and+Code+Together" alt="Typing SVG" />
 </p>
 
 ---
@@ -71,13 +68,13 @@ Currently a **Multimedia Design & Development** student at Fanshawe College, I s
 
 ---
 
-### 🧠 Code Rain Animation (Matrix Style)
+### 🌟 Unique Coding Visual (3D Dev Cube)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rohitguptab/rohitguptab/main/code-rain.svg" alt="Code Rain Animation" />
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width="600" alt="3D Code Cube" />
 </p>
 
-> *(Inspired by the matrix, but personalized to show you live and breathe code)*
+> *(Your imagination lives in pixels. Here's a visual to prove it.)*
 
 ---
 
