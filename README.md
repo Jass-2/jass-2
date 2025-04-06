@@ -1,7 +1,7 @@
 <!-- Profile Intro -->
 <p align="left">
   <img src="assets/main-logo.svg" alt="Logo" width="50" style="vertical-align:middle; margin-right:10px;">
-  <span style="font-size: 2rem; font-weight: bold;">Jashan Kumar</span>
+  <span style="font-size: 3rem; font-weight: bold;">Jashan Kumar</span>
 </p>
 
 <!-- Typewriter Effect -->
