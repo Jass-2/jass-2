@@ -29,16 +29,16 @@ Ask me about: Web Design • CSS Tricks • 3D Pipelines • Motion Design
 
 ### 🌐 Connect with Me
 
-<a href="mailto:jashankumarofficial@gmail.com">
+<a href="mailto:jashankumarcw2@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://linkedin.com/in/jashan-kumar-03b241259">
+<a href="https://www.linkedin.com/in/j-kumar-dev">
   <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://instagram.com/jashankumar.2">
+<a href="https://www.instagram.com/j.jashan__">
   <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-<a href="https://your-portfolio.com">
+<a href="[https://your-portfolio.com](https://jkumar.dev/)">
   <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
@@ -50,15 +50,17 @@ Ask me about: Web Design • CSS Tricks • 3D Pipelines • Motion Design
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3"/>
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+
 </p>
 
 **Frameworks & Libraries**
 <p>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Lumen-E74430?style=flat-square&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white"/>
+
 </p>
 
 **Design & Tools**
